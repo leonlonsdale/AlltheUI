@@ -42,16 +42,16 @@ AlltheUI is a custom World of Warcraft user interface designed to enhance your g
 AlltheUI export strings are organised by addon and class in the following folders:
 
 -   **Shadowed Unit Frames:**
-    -   `SUF/Shadowed Unit Frames.txt`
+    -   [SUF/Shadowed Unit Frames.txt](./SUF/Shadowed%20Unit%20Frames.txt)
 -   **ElvUI:**
-    -   `ElvUI/Profile.txt`
+    -   [ElvUI/Profile.txt](./ElvUI/Profile.txt)
 -   **WeakAuras:**
-    -   `WeakAuras/Warrior Pack.txt`
-    -   `WeakAuras/Paladin Pack.txt`
-    -   `WeakAuras/Mage Pack.txt`
-    -   `WeakAuras/Evoker.txt`
+    -   [WeakAuras/Warrior Pack.txt](./WeakAuras/Warrior%20Pack.txt)
+    -   [WeakAuras/Paladin Pack.txt](./WeakAuras/Paladin%20Pack.txt)
+    -   [WeakAuras/Mage Pack.txt](./WeakAuras/Mage%20Pack.txt)
+    -   [WeakAuras/Evoker.txt](./WeakAuras/Evoker.txt)
 
-Open the relevant `.txt` file for your class or addon and copy the export string into the game as described above.
+Click the relevant link above to view the export string for your class or addon, then copy it into the game as described above.
 
 ## Support & Contact
 
