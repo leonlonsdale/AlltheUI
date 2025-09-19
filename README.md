@@ -64,4 +64,14 @@ For questions, feedback, or support, contact me in-game on the Tarren Mill realm
 -   **Allthescales**
 -   **Alltheclaws**
 
-Thank you for using AlltheUI!
+## Thank you for using AlltheUI!
+
+## Contributing
+
+AlltheUI export strings and configurations are a work in progress. Contributions are welcome!
+
+-   Please do not change the layouts or overall design.
+-   Contributions to improve LUA custom code for elements are encouraged (e.g., more robust triggers, better conditions, or optimisations).
+-   Open a pull request or contact in-game if you have improvements to share.
+
+Your support helps make AlltheUI better for everyone!
